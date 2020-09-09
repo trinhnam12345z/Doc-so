@@ -10,3 +10,16 @@ E:\BT C#\Doc so\Doc so\bin\Debug\netcoreapp3.1\Doc so.pdb
 E:\BT C#\Doc so\Doc so\obj\Debug\netcoreapp3.1\Doc so.dll
 E:\BT C#\Doc so\Doc so\obj\Debug\netcoreapp3.1\Doc so.pdb
 E:\BT C#\Doc so\Doc so\obj\Debug\netcoreapp3.1\Doc so.genruntimeconfig.cache
+E:\C#\Doc-so\Doc so\bin\Debug\netcoreapp3.1\Doc so.exe
+E:\C#\Doc-so\Doc so\bin\Debug\netcoreapp3.1\Doc so.deps.json
+E:\C#\Doc-so\Doc so\bin\Debug\netcoreapp3.1\Doc so.runtimeconfig.json
+E:\C#\Doc-so\Doc so\bin\Debug\netcoreapp3.1\Doc so.runtimeconfig.dev.json
+E:\C#\Doc-so\Doc so\bin\Debug\netcoreapp3.1\Doc so.dll
+E:\C#\Doc-so\Doc so\bin\Debug\netcoreapp3.1\Doc so.pdb
+E:\C#\Doc-so\Doc so\obj\Debug\netcoreapp3.1\Doc so.csprojAssemblyReference.cache
+E:\C#\Doc-so\Doc so\obj\Debug\netcoreapp3.1\Doc so.AssemblyInfoInputs.cache
+E:\C#\Doc-so\Doc so\obj\Debug\netcoreapp3.1\Doc so.AssemblyInfo.cs
+E:\C#\Doc-so\Doc so\obj\Debug\netcoreapp3.1\Doc so.csproj.CoreCompileInputs.cache
+E:\C#\Doc-so\Doc so\obj\Debug\netcoreapp3.1\Doc so.dll
+E:\C#\Doc-so\Doc so\obj\Debug\netcoreapp3.1\Doc so.pdb
+E:\C#\Doc-so\Doc so\obj\Debug\netcoreapp3.1\Doc so.genruntimeconfig.cache

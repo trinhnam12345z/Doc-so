@@ -10,22 +10,18 @@ namespace Doc_so
             Console.InputEncoding = System.Text.Encoding.Unicode;
             Console.WriteLine("CT ĐỌC SỐ ");
             Console.WriteLine("------------------------------------");
-            Console.WriteLine("Nhập số (Nhập số 4 chữ số ): ");
+            Console.WriteLine("Nhập số (Nhập số 3 chữ số ): ");
 
             int no = int.Parse(Console.ReadLine());
-
+            docso(no);
+        }
+        static void docso(int no)
+        {
             string[] Ones = { "Một", "Hai", "Ba", "Bốn", "Năm", "Sáu", "Bảy", "Tám", "Chín", "Mười", "Mười một", "Mười hai", "Mười ba", "Mười bốn", "Mười lăm", "Mười sáu", "Mười bảy", "Mười tám", "Mười chín" };
             string[] Tens = { "Mười", "Hai mươi", "Ba mươi", "Bốn mươi", "Năm mươi", "Sáu mươi", "Bảy mươi", "Tám mươi", "Chín mươi" };
 
-            
-            string strWords = "";
 
-            if (no > 999 && no < 10000)
-            {
-                int i = no / 1000;
-                strWords = strWords + Ones[i - 1] + " Ngàn ";
-                no = no % 1000;
-            }
+            string strWords = "";
 
 
             if (no > 99 && no < 1000)
@@ -47,7 +43,7 @@ namespace Doc_so
                 strWords = strWords + Ones[no - 1];
             }
 
-            Console.WriteLine("Số của bạn là : {0}",strWords);
+            Console.WriteLine("Số của bạn là : {0}", strWords);
         }
     }
 }
